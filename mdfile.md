@@ -35,8 +35,11 @@ The user management screen should consist of the following UI
 components:
 
 -A table displaying a list of all users in the system.
+
 -Buttons to add,edit, activate/deactivate, and save users. 
+
 -Forms for adding/editing users.
+
 -Filters on the table to sort.
 
 
