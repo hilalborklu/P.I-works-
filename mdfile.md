@@ -1,15 +1,15 @@
-#User Management Screen
+# User Management Screen
 
-##Requirements and Behavior
+## Requirements and Behavior
 
 The user management screen should allow administrators to manage users
 in the system. The following requirements should be met:
 
--At left the top of the screen there should be a button to be able to a
+- At left the top of the screen there should be a button to be able to a
 new user and next to that box there should be an option box to hide
 disabled users.
 
--At the right top of the screen there should be a button to be able to
+- At the right top of the screen there should be a button to be able to
 save the user.
 
 The page should have 2 side . Left half of the screen should keep
@@ -29,17 +29,17 @@ address, user roles and status (enabled or disabled). Allow
 administrators to edit user information. Allow administrators to
 activate or deactivate users. Allow administrators to delete users.
 
-##UI Components
+## UI Components
 
 The user management screen should consist of the following UI
 components:
 
--A table displaying a list of all users in the system.
+- A table displaying a list of all users in the system.
 
--Buttons to add,edit, activate/deactivate, and save users. 
+- Buttons to add,edit, activate/deactivate, and save users. 
 
--Forms for adding/editing users.
+- Forms for adding/editing users.
 
--Filters on the table to sort.
+- Filters on the table to sort.
 
 
