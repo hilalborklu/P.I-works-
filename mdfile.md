@@ -5,7 +5,7 @@
 The user management screen should allow administrators to manage users
 in the system. The following requirements should be met:
 
-- At left the top of the screen there should be a button to be able to a
+- At left the top of the screen there should be a button to be able to add a
 new user and next to that box there should be an option box to hide
 disabled users.
 
